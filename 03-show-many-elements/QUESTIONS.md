@@ -6,4 +6,4 @@
 
 > How did you go about hiding elements initially?
 
-Your reply here...
+Tagā es pievienoju stila atribūtu un iestatīju uz display:none.
